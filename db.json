@@ -1,0 +1,302 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Shopping",
+      "type": "Expense",
+      "totalBudget": 300,
+      "remainingBudget": 240
+    },
+    {
+      "id": 2,
+      "name": "Food",
+      "type": "Expense",
+      "remainingBudget": null
+    },
+    {
+      "id": 3,
+      "name": "Expenses",
+      "type": "Expense",
+      "totalBudget": 300,
+      "remainingBudget": 300
+    },
+    {
+      "id": 4,
+      "name": "Breakfast Supplies",
+      "type": "Expense",
+      "totalBudget": 300,
+      "remainingBudget": 200
+    },
+    {
+      "id": 5,
+      "name": "Household Items",
+      "type": "Expense",
+      "totalBudget": 300,
+      "remainingBudget": 290
+    },
+    {
+      "id": 6,
+      "name": "Parties",
+      "type": "Expense",
+      "totalBudget": 300,
+      "remainingBudget": 300
+    },
+    {
+      "id": 7,
+      "name": "Travel",
+      "type": "Expense",
+      "totalBudget": 300,
+      "remainingBudget": 300
+    }
+  ],
+  "transaction": [
+    {
+      "id": 123,
+      "category_id": 1,
+      "amount": 100.5,
+      "date": 1734420348000,
+      "note": "Weekly groceries",
+      "type": "Expense"
+    },
+    {
+      "id": 124,
+      "category_id": 1,
+      "amount": 75.25,
+      "date": 1734610548000,
+      "note": "More groceries",
+      "type": "Expense"
+    },
+    {
+      "id": 125,
+      "category_id": 3,
+      "amount": 1200,
+      "date": 1734420348000,
+      "note": "Monthly rent",
+      "type": "Expense"
+    },
+    {
+      "id": 126,
+      "category_id": 1,
+      "amount": 45.99,
+      "date": 1734520538000,
+      "note": "Snacks and drinks",
+      "type": "Expense"
+    },
+    {
+      "id": 127,
+      "category_id": 1,
+      "amount": 60,
+      "date": 1734621408000,
+      "note": "Breakfast supplies",
+      "type": "Expense"
+    },
+    {
+      "id": 128,
+      "category_id": 5,
+      "amount": 110.75,
+      "date": 1734625028000,
+      "note": "Household items",
+      "type": "Expense"
+    },
+    {
+      "id": 129,
+      "category_id": 3,
+      "amount": 50.25,
+      "date": 1734420348000,
+      "note": "Utilities bill",
+      "type": "Expense"
+    },
+    {
+      "id": 130,
+      "category_id": 3,
+      "amount": 200.5,
+      "date": 1734632268000,
+      "note": "Electronics",
+      "type": "Expense"
+    },
+    {
+      "id": 131,
+      "category_id": 2,
+      "amount": 15.99,
+      "date": 1734635888000,
+      "note": "Dining out",
+      "type": "Expense"
+    },
+    {
+      "id": 132,
+      "category_id": 3,
+      "amount": 90,
+      "date": 1734639508000,
+      "note": "Christmas Gifts",
+      "type": "Expense"
+    },
+    {
+      "id": 133,
+      "category_id": 6,
+      "amount": 20.75,
+      "date": 1734643128000,
+      "note": "New Year Party Supplies",
+      "type": "Expense"
+    },
+    {
+      "id": 134,
+      "category_id": 6,
+      "amount": 85.5,
+      "date": 1734646748000,
+      "note": "Thanksgiving Groceries",
+      "type": "Expense"
+    },
+    {
+      "id": 135,
+      "category_id": 3,
+      "amount": 900,
+      "date": 1734650368000,
+      "note": "Rent November",
+      "type": "Expense"
+    },
+    {
+      "id": 136,
+      "category_id": 4,
+      "amount": 500.5,
+      "date": 1734520538000,
+      "note": "Freelance project",
+      "type": "Budget"
+    },
+    {
+      "id": 137,
+      "category_id": 3,
+      "amount": 3000,
+      "date": 1734657608000,
+      "note": "Monthly salary",
+      "type": "Budget"
+    },
+    {
+      "id": 138,
+      "category_id": 3,
+      "amount": 3200.5,
+      "date": 1734661228000,
+      "note": "Bonus",
+      "type": "Budget"
+    },
+    {
+      "id": 139,
+      "category_id": 4,
+      "amount": 450.5,
+      "date": 1734520538000,
+      "note": "Consulting work",
+      "type": "Budget"
+    },
+    {
+      "id": 140,
+      "category_id": 3,
+      "amount": 2800,
+      "date": 1734420348000,
+      "note": "Part-time job",
+      "type": "Budget"
+    },
+    {
+      "id": 141,
+      "category_id": 4,
+      "amount": 600,
+      "date": 1734420348000,
+      "note": "Online sales",
+      "type": "Budget"
+    },
+    {
+      "id": 142,
+      "category_id": 3,
+      "amount": 1500,
+      "date": 1734675708000,
+      "note": "Freelance writing",
+      "type": "Budget"
+    },
+    {
+      "id": 143,
+      "category_id": 3,
+      "amount": 100.5,
+      "date": 1734420348000,
+      "note": "End of Year Bonus",
+      "type": "Budget"
+    },
+    {
+      "id": 144,
+      "category_id": 4,
+      "amount": 100.5,
+      "date": 1734682948000,
+      "note": "Thanksgiving Freelance",
+      "type": "Budget"
+    },
+    {
+      "id": 145,
+      "category_id": 4,
+      "amount": 130.5,
+      "date": 1734686568000,
+      "note": "General Freelance",
+      "type": "Budget"
+    },
+    {
+      "id": 146,
+      "category_id": 1,
+      "amount": 50,
+      "date": 1734631059290,
+      "note": "hello",
+      "type": "Expense"
+    },
+    {
+      "id": 1734637846431,
+      "category_id": 2,
+      "amount": 100,
+      "date": 1734637846431,
+      "note": "",
+      "type": "Budget"
+    },
+    {
+      "category_id": 1,
+      "amount": 10,
+      "date": 1734638631086,
+      "note": "More shopping",
+      "type": "Expense",
+      "id": 1734638631086
+    },
+    {
+      "category_id": 1,
+      "amount": 30,
+      "date": 1734639102609,
+      "note": "More Expense",
+      "type": "Expense",
+      "id": 1734639102609
+    },
+    {
+      "category_id": 1,
+      "amount": 20,
+      "date": 1734639442694,
+      "note": "Shops",
+      "type": "Expense",
+      "id": 1734639442694
+    },
+    {
+      "category_id": 4,
+      "amount": 100,
+      "date": 1734639541903,
+      "note": "Bread and Butter",
+      "type": "Budget",
+      "id": 1734639542003
+    },
+    {
+      "category_id": 5,
+      "amount": 10,
+      "date": 1734639577890,
+      "note": "Bulb",
+      "type": "Expense",
+      "id": 1734639577990
+    },
+    {
+      "category_id": 2,
+      "amount": 10,
+      "date": 1734642003009,
+      "note": "food",
+      "type": "Budget",
+      "id": 1734642003009
+    }
+  ]
+}

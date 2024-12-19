@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "263769959430",
+    "project_id": "budgetguru-d6bbb",
+    "storage_bucket": "budgetguru-d6bbb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263769959430:android:ce0f2eb8f1349734b5e787",
+        "android_client_info": {
+          "package_name": "com.budgetguru"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5PCPY3oMsyzKOh3Lc2qTdfUM2yikjxO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
